@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+.contenedor {
+  width: 100%;
+  overflow: hidden;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.columna {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
+
+p {
+  width: 500px;
+  height: auto;
+}
+
+img {
+  width: 500px;
+  height: auto;
+}
+
+.wolf {
+  clear: left;
+}
